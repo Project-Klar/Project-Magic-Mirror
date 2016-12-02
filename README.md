@@ -1,2 +1,2 @@
 # Project-Magic-Mirror
-Magic Mirror Code Stuff
+### Magic Mirror With Future AI and Motion sensors
